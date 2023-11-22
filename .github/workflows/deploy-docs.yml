@@ -1,4 +1,4 @@
-name: 部署文档
+name: Deploy docs
 on:
   push:
     branches:
