@@ -26,7 +26,7 @@ jobs:
       - name: 下载资源
         uses: actions/checkout@v3
         with:
-          repository: galaxy-resources
+          repository: myyerrol/galaxy-resources
           path: src/.vuepress/public/res
       - name: 构建文档
         env:
