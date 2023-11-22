@@ -24,7 +24,7 @@ jobs:
           node-version: 20
           cache: pnpm
       - name: 下载资源
-      - uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v3
         with:
           name: galaxy-resources
           path: src/.vuepress/public/res
