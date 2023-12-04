@@ -32,10 +32,10 @@ features:
     link: /projects/galaxy/
   - title: 极光粒子模块
     icon: wind
-    details: 一套经过流片验证的开源IP组件库
+    details: 一套经过板级和流片双重验证的开源IP组件库，目前主要聚焦常用数字和低速外设IP，并尝试使用<span style="font-weight:bold">敏捷设计方法</span>完成设计和验证，最终可与流星处理器核碰撞形成一个完整的小型SoC系统
     link: /projects/aurora/
-  - title: 日食后端工具
+  - title: 日食后端脚本
     icon: sun
-    details:
+    details: 一个整合了开源EDA后端流程的自动化脚本，实现芯片数据在不同工具之间的平滑流动，并提供较为友好的可视化信息反馈机制，帮助爱好者降低学习开源EDA工具的成本
     link: /projects/eclipse/
 ---
