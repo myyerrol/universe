@@ -4,12 +4,12 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-    base: "/galaxy/",
+    base: "/universe/",
     locales: {
         "/": {
             lang: "zh-CN",
-            title: "Galaxy",
-            description: "Galaxy的官方网站",
+            title: "开源芯片宇宙",
+            description: "开源芯片宇宙",
         }
     },
     shouldPrefetch: false,
