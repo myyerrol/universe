@@ -44,7 +44,6 @@ export default hopeTheme({
     lastUpdated: true,
     contributors: true,
     editLink: true,
-    docsRepo: "repo",
     docsBranch: "main",
     docsDir: "src",
     // Footer
