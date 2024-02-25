@@ -5,9 +5,9 @@ icon: meteor
 
 ## Project Origin
 
-### Situation &amp;&amp; Problem
+### Situation && Problem
 
-### Motivation &amp;&amp; Construct
+### Motivation && Construct
 
 ### Development Route
 
