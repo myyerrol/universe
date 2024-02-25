@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
     base: "/universe/",
     locales: {
-        "/": {
+        "/zh/": {
             lang: "zh-CN",
             title: "开源芯片宇宙",
             description: "开源芯片宇宙",

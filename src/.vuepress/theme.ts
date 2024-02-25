@@ -63,7 +63,7 @@ export default hopeTheme({
 
     // Theme i18N
     locales: {
-        "/": {
+        "/zh/": {
             navbar: zhNavbar,
             sidebar: zhSidebar,
             footer: "GPL协议 | 版权所有 © 2024-现在 myyerrol",

@@ -4,11 +4,11 @@ export const zhNavbar = navbar([
     {
         text: "快速上手",
         icon: "bolt",
-        link: "/start/"
+        link: "/zh/start/"
     }, {
         text: "核心项目",
         icon: "toolbox",
-        prefix: "/projects/",
+        prefix: "/zh/projects/",
         children: [
             "space/",
             "meteor/",
@@ -20,10 +20,10 @@ export const zhNavbar = navbar([
     }, {
         text: "在线平台",
         icon: "layer-group",
-        link: "/platform/"
+        link: "/zh/platform/"
     }, {
         text: "关于我们",
         icon: "circle-user",
-        link: "/about/"
+        link: "/zh/about/"
     }
 ]);
