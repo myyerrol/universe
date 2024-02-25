@@ -10,12 +10,12 @@ export const zhNavbar = navbar([
         icon: "toolbox",
         prefix: "/projects/",
         children: [
-            "space",
-            "meteor",
-            "blackhole",
-            "galaxy",
-            "aurora",
-            "eclipse",
+            "space/",
+            "meteor/",
+            "blackhole/",
+            "galaxy/",
+            "aurora/",
+            "eclipse/",
         ]
     }, {
         text: "在线平台",

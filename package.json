@@ -1,20 +1,20 @@
 {
-    "name": "galaxy",
-    "version": "1.0.0",
-    "description": "A project of galaxy",
-    "license": "GPL-3.0",
-    "type": "module",
-    "scripts": {
-        "docs:build": "vuepress build src",
-        "docs:clean-dev": "vuepress dev src --clean-cache",
-        "docs:dev": "vuepress dev src",
-        "docs:update-package": "pnpm dlx vp-update"
-    },
-    "devDependencies": {
-        "@vuepress/client": "2.0.0-rc.0",
-        "vue": "^3.3.8",
-        "vuepress": "2.0.0-rc.0",
-        "vuepress-plugin-search-pro": "2.0.0-rc.0",
-        "vuepress-theme-hope": "2.0.0-rc.0"
-    }
+  "name": "universe",
+  "version": "1.0.0",
+  "description": "A project of universe",
+  "license": "GPL-3.0",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.8",
+    "vue": "^3.4.16",
+    "vuepress": "2.0.0-rc.8",
+    "vuepress-theme-hope": "2.0.0-rc.26",
+    "vuepress-plugin-search-pro": "2.0.0-rc.26"
+  }
 }
