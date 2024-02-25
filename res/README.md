@@ -1,1 +1,1 @@
-# galaxy-resources
+# universe-resources
