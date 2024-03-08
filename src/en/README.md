@@ -12,7 +12,7 @@ actions:
     type: primary
   - text: Online Platform
     icon: layer-group
-    link: "/en/platform/"
+    link: "/en/starship/"
 features:
   - title: Space Selection Program
     icon: user-astronaut

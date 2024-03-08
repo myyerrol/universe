@@ -20,7 +20,7 @@ export const zhNavbar = navbar([
     }, {
         text: "在线平台",
         icon: "layer-group",
-        link: "/zh/platform/"
+        link: "/zh/starship/"
     }, {
         text: "关于我们",
         icon: "circle-user",

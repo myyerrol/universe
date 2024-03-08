@@ -12,7 +12,7 @@ actions:
     type: primary
   - text: 在线平台
     icon: layer-group
-    link: "/zh/platform/"
+    link: "/zh/starship/"
 features:
   - title: 太空选拔计划
     icon: user-astronaut

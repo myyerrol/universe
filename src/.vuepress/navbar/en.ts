@@ -20,7 +20,7 @@ export const enNavbar = navbar([
     }, {
         text: "Online Platform",
         icon: "layer-group",
-        link: "/en/platform/"
+        link: "/en/starship/"
     }, {
         text: "About US",
         icon: "circle-user",
