@@ -7,7 +7,7 @@ icon: meteor
 
 ### Situation && Problem
 
-### Motivation && Construct
+### 动机构想
 
 ### Development Route
 
