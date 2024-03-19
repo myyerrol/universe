@@ -1,4 +1,4 @@
 ---
-title: "Projects"
-icon: "toolbox"
+title: Projects
+icon: toolbox
 ---
