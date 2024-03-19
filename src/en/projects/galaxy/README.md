@@ -1,4 +1,4 @@
 ---
-title:  Galaxy Hitchhiker Guide
+title: Galaxy Hitchhiker Guide
 icon: hurricane
 ---
